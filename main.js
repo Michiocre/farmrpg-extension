@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Farm Rpg Extension
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.1.2
 // @description  Adds some helper functionality to farm rpg
 // @author       Michiocre
 // @match        https://farmrpg.com/index.php
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=farmrpg.com
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/Michiocre/farmrpg-extension/main/main.js
+// @updateURL  https://raw.githubusercontent.com/Michiocre/farmrpg-extension/main/main.js
 // ==/UserScript==
 
 (function(open) {
